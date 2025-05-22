@@ -1,0 +1,3 @@
+$ git clone https://github.com/activemarkagency/activemark.git
+$ echo "Hello World" > index.html
+$ git push -u origin main
